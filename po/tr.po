@@ -1514,7 +1514,7 @@ msgstr "Girdi olaylarında ses çalınması."
 
 #: schemas/org.mate.sound.gschema.xml:35
 msgid "Permit the output volume to exceed 100%"
-msgstr ""
+msgstr "Çıkış hacminin %100'ü aşmasına izin verin"
 
 #: schemas/org.mate.sound.gschema.xml:36
 msgid ""
@@ -1525,6 +1525,12 @@ msgid ""
 "to extremely quiet audio recordings, where the recording would otherwise be "
 "completely useless."
 msgstr ""
+"Bu, DOĞRU olarak ayarlanırsa, kullanıcının çıkışı / hoparlörü ayarlamasına izin verilir"
+" ses seviyesi %100'ün üzerine çıkar. Çıkış ses seviyesi %100'ün üzerine ayarlandığında, ses "
+"sunucu, sesi, ses donanımının temiz bir şekilde yapabileceğinin üzerine yükseltecek."
+"Bu, ses kalitesinin düşmesine neden olabilir, ancak dinlemek için yararlı olabilir"
+"aksi takdirde kaydın olacağı son derece sessiz ses kayıtlarına"
+"tamamen işe yaramaz."
 
 #: schemas/org.mate.thumbnail-cache.gschema.xml:6
 msgid ""
